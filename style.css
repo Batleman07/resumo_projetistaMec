@@ -231,8 +231,8 @@ p{
 
 
 a{
-    text-decoration: none;
-    color: #fff;
+    text-decoration: underline;
+    color: #97e093;
     
 }
  @media(max-width:1000px){
